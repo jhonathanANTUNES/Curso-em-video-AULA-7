@@ -23,7 +23,4 @@ raiz_quadrada = numero ** 0.5
 print(f'o dobro de {numero} é {dobro}.')
 print(f'o triplo de {numero} é {triplo}. ')
 
-
-
-
 print(f' a raiz quadrada de {numero} é {raiz_quadrada:.2f}.')
